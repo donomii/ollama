@@ -1,4 +1,4 @@
-module github.com/ollama/ollama
+module github.com/donomii/ollama
 
 go 1.18
 
